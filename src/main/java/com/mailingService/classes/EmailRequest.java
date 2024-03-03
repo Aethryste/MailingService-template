@@ -41,7 +41,6 @@ public class EmailRequest {
         this.body = body;
     }
 
-    // toString() method for debugging/logging
     @Override
     public String toString() {
         return "EmailRequest{" +
